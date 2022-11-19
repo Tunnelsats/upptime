@@ -52,11 +52,6 @@ status-website:
   introTitle: "Tunnel⚡️Sats Server Status"
   #introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
-    - title: Status
-      href: /upptime
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
-  navbar:
     - title: Homepage
       href: https://tunnelsats.com
     - title: Status
