@@ -47,7 +47,7 @@ status-website:
   cname: status.tunnelsats.com
   #baseUrl: /upptime
   #logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  #logoUrl: https://github.com/blckbx/tunnelsats/blob/main/docs/assets/tunnelsats_banner_640_320.png
+  logoUrl: https://github.com/Tunnelsats/upptime/raw/master/assets/tunnelsats_banner_640_320.png
   name: Tunnel⚡️Sats Status
   introTitle: "Tunnel⚡️Sats Server Status"
   #introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
