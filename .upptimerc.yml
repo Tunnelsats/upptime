@@ -79,5 +79,4 @@ workflowSchedule:
   uptime: "*/5 * * * *"
   
 i18n:
-  footer: Canary Warrent Notification: Tunnel⚡️Sats has received 0 (Zero) government requests for information. This page is powered by [Upptime](https://upptime.js.org)
-  
+  footer: Canary Warrent Notification: Tunnel⚡️Sats has received 0 (Zero) government requests for information. <br /> This page is powered by [Upptime](https://upptime.js.org)
