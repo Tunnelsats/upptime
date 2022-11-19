@@ -4,29 +4,41 @@ repo: upptime # The name of this repository
 
 sites:
   - name: de1.tunnelsats.com
-    check: "tcp-ping"
-    url: 46.101.122.181
-    port: 53
+    url: https://de1.tunnelsats.com
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 404
   - name: de2.tunnelsats.com
-    check: "tcp-ping"
-    url: 38.242.145.180
-    port: 53
+    url: https://de2.tunnelsats.com
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 404
   - name: de3.tunnelsats.com
-    check: "tcp-ping"
-    url: 159.69.32.62
-    port: 53
+    url: https://de3.tunnelsats.com
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 404
   - name: br1.tunnelsats.com
-    check: "tcp-ping"
-    url: 216.238.101.90
-    port: 53
-  - name: sg1.tunnelsats.com
-    check: "tcp-ping"
-    url: 128.199.66.191
-    port: 53
+    url: https://br1.tunnelsats.com
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 404
   - name: us1.tunnelsats.com
-    check: "tcp-ping"
-    url: 159.223.176.115
-    port: 53
+    url: https://us1.tunnelsats.com
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 404
+  - name: sg1.tunnelsats.com
+    url: https://sg1.tunnelsats.com
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 404
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
