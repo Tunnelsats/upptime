@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/de1.tunnelsats.com.ico",
     "slug": "de1-tunnelsats-com",
     "status": "up",
-    "uptime": "90.40%",
-    "uptimeDay": "90.40%",
-    "uptimeWeek": "90.40%",
-    "uptimeMonth": "90.40%",
-    "uptimeYear": "90.40%",
-    "time": 374,
-    "timeDay": 374,
-    "timeWeek": 374,
-    "timeMonth": 374,
-    "timeYear": 374,
-    "dailyMinutesDown": {
-      "2022-11-19": 27
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 369,
+    "timeDay": 369,
+    "timeWeek": 369,
+    "timeMonth": 369,
+    "timeYear": 369,
+    "dailyMinutesDown": {}
   },
   {
     "name": "de2.tunnelsats.com",
@@ -25,19 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/de2.tunnelsats.com.ico",
     "slug": "de2-tunnelsats-com",
     "status": "up",
-    "uptime": "90.40%",
-    "uptimeDay": "90.40%",
-    "uptimeWeek": "90.40%",
-    "uptimeMonth": "90.40%",
-    "uptimeYear": "90.40%",
-    "time": 324,
-    "timeDay": 324,
-    "timeWeek": 324,
-    "timeMonth": 324,
-    "timeYear": 324,
-    "dailyMinutesDown": {
-      "2022-11-19": 27
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 323,
+    "timeDay": 323,
+    "timeWeek": 323,
+    "timeMonth": 323,
+    "timeYear": 323,
+    "dailyMinutesDown": {}
   },
   {
     "name": "de3.tunnelsats.com",
@@ -45,19 +41,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/de3.tunnelsats.com.ico",
     "slug": "de3-tunnelsats-com",
     "status": "up",
-    "uptime": "90.40%",
-    "uptimeDay": "90.40%",
-    "uptimeWeek": "90.40%",
-    "uptimeMonth": "90.40%",
-    "uptimeYear": "90.40%",
-    "time": 368,
-    "timeDay": 368,
-    "timeWeek": 368,
-    "timeMonth": 368,
-    "timeYear": 368,
-    "dailyMinutesDown": {
-      "2022-11-19": 27
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 361,
+    "timeDay": 361,
+    "timeWeek": 361,
+    "timeMonth": 361,
+    "timeYear": 361,
+    "dailyMinutesDown": {}
   },
   {
     "name": "br1.tunnelsats.com",
@@ -65,19 +59,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/br1.tunnelsats.com.ico",
     "slug": "br1-tunnelsats-com",
     "status": "up",
-    "uptime": "90.41%",
-    "uptimeDay": "90.41%",
-    "uptimeWeek": "90.41%",
-    "uptimeMonth": "90.41%",
-    "uptimeYear": "90.41%",
-    "time": 454,
-    "timeDay": 454,
-    "timeWeek": 454,
-    "timeMonth": 454,
-    "timeYear": 454,
-    "dailyMinutesDown": {
-      "2022-11-19": 27
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 446,
+    "timeDay": 446,
+    "timeWeek": 446,
+    "timeMonth": 446,
+    "timeYear": 446,
+    "dailyMinutesDown": {}
   },
   {
     "name": "us1.tunnelsats.com",
@@ -85,19 +77,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/us1.tunnelsats.com.ico",
     "slug": "us1-tunnelsats-com",
     "status": "up",
-    "uptime": "90.41%",
-    "uptimeDay": "90.41%",
-    "uptimeWeek": "90.41%",
-    "uptimeMonth": "90.41%",
-    "uptimeYear": "90.41%",
-    "time": 122,
-    "timeDay": 122,
-    "timeWeek": 122,
-    "timeMonth": 122,
-    "timeYear": 122,
-    "dailyMinutesDown": {
-      "2022-11-19": 27
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 116,
+    "timeDay": 116,
+    "timeWeek": 116,
+    "timeMonth": 116,
+    "timeYear": 116,
+    "dailyMinutesDown": {}
   },
   {
     "name": "sg1.tunnelsats.com",
@@ -105,18 +95,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/sg1.tunnelsats.com.ico",
     "slug": "sg1-tunnelsats-com",
     "status": "up",
-    "uptime": "90.42%",
-    "uptimeDay": "90.42%",
-    "uptimeWeek": "90.42%",
-    "uptimeMonth": "90.42%",
-    "uptimeYear": "90.42%",
-    "time": 683,
-    "timeDay": 683,
-    "timeWeek": 683,
-    "timeMonth": 683,
-    "timeYear": 683,
-    "dailyMinutesDown": {
-      "2022-11-19": 27
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 685,
+    "timeDay": 685,
+    "timeWeek": 685,
+    "timeMonth": 685,
+    "timeYear": 685,
+    "dailyMinutesDown": {}
   }
 ]
