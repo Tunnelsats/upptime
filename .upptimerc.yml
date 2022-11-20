@@ -47,7 +47,7 @@ sites:
       - 404
 
 status-website:
-  theme: https://status.tunnelsats.com/tunnelsats.css
+  themeUrl: https://status.tunnelsats.com/tunnelsats.css
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.tunnelsats.com
