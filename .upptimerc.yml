@@ -53,7 +53,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.tunnelsats.com
   #baseUrl: /upptime
-  #logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  favicon: https://github.com/Tunnelsats/upptime/raw/master/assets/favicon.png
   logoUrl: https://github.com/Tunnelsats/upptime/raw/master/assets/tunnelsats_banner_640_320.png
   name: Tunnel⚡️Sats Status
   introTitle: "Tunnel⚡️Sats Server Status"
@@ -64,7 +64,7 @@ status-website:
     - title: Status
       href: https://status.tunnelsats.com
     - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+      href: https://github.com/Tunnelsats
     - title: Telegram
       href: https://t.me/+NJylaUom-rxjYjU6
 
