@@ -13,7 +13,7 @@
     "time": 430,
     "timeDay": 318,
     "timeWeek": 379,
-    "timeMonth": 430,
+    "timeMonth": 443,
     "timeYear": 430,
     "dailyMinutesDown": {}
   },
@@ -22,18 +22,20 @@
     "url": "https://de2.tunnelsats.com",
     "icon": "https://icons.duckduckgo.com/ip3/de2.tunnelsats.com.ico",
     "slug": "de2-tunnelsats-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 402,
     "timeDay": 304,
     "timeWeek": 374,
-    "timeMonth": 402,
+    "timeMonth": 418,
     "timeYear": 402,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-12-19": 0
+    }
   },
   {
     "name": "de3.tunnelsats.com",
@@ -49,7 +51,7 @@
     "time": 402,
     "timeDay": 305,
     "timeWeek": 388,
-    "timeMonth": 402,
+    "timeMonth": 408,
     "timeYear": 402,
     "dailyMinutesDown": {}
   },
@@ -67,7 +69,7 @@
     "time": 476,
     "timeDay": 406,
     "timeWeek": 465,
-    "timeMonth": 476,
+    "timeMonth": 482,
     "timeYear": 476,
     "dailyMinutesDown": {}
   },
@@ -85,7 +87,7 @@
     "time": 155,
     "timeDay": 84,
     "timeWeek": 135,
-    "timeMonth": 155,
+    "timeMonth": 162,
     "timeYear": 155,
     "dailyMinutesDown": {}
   },
@@ -103,7 +105,7 @@
     "time": 651,
     "timeDay": 724,
     "timeWeek": 674,
-    "timeMonth": 651,
+    "timeMonth": 647,
     "timeYear": 651,
     "dailyMinutesDown": {}
   },
@@ -113,15 +115,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/tunnelsats.com.ico",
     "slug": "tunnel-sats-frontend",
     "status": "up",
-    "uptime": "99.91%",
+    "uptime": "99.92%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.91%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.92%",
     "time": 398,
     "timeDay": 332,
     "timeWeek": 367,
-    "timeMonth": 398,
+    "timeMonth": 394,
     "timeYear": 398,
     "dailyMinutesDown": {
       "2022-12-10": 21,
