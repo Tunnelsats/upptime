@@ -9,12 +9,6 @@ sites:
       - 200
       - 201
       - 404
-  - name: de2.tunnelsats.com
-    url: https://de2.tunnelsats.com
-    expectedStatusCodes:
-      - 200
-      - 201
-      - 404
   - name: de3.tunnelsats.com
     url: https://de3.tunnelsats.com
     expectedStatusCodes:
