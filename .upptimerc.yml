@@ -3,31 +3,31 @@ owner: Tunnelsats # Your GitHub organization or username, where this repository 
 repo: upptime # The name of this repository
 
 sites:
-  - name: de1.tunnelsats.com
+  - name: 🇩🇪 de1.tunnelsats.com
     url: https://de1.tunnelsats.com
     expectedStatusCodes:
       - 200
       - 201
       - 404
-  - name: de3.tunnelsats.com
+  - name: 🇩🇪 de3.tunnelsats.com
     url: https://de3.tunnelsats.com
     expectedStatusCodes:
       - 200
       - 201
       - 404
-  - name: br1.tunnelsats.com
+  - name: 🇧🇷 br1.tunnelsats.com
     url: https://br1.tunnelsats.com
     expectedStatusCodes:
       - 200
       - 201
       - 404
-  - name: us1.tunnelsats.com
+  - name: 🇺🇸 us1.tunnelsats.com
     url: https://us1.tunnelsats.com
     expectedStatusCodes:
       - 200
       - 201
       - 404
-  - name: sg1.tunnelsats.com
+  - name: 🇸🇬 sg1.tunnelsats.com
     url: https://sg1.tunnelsats.com
     expectedStatusCodes:
       - 200
