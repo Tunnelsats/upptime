@@ -98,19 +98,19 @@
     "url": "https://de3.tunnelsats.com",
     "icon": "https://icons.duckduckgo.com/ip3/de3.tunnelsats.com.ico",
     "slug": "de3-tunnelsats-com",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.05%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
     "time": 401,
-    "timeDay": 498,
-    "timeWeek": 419,
-    "timeMonth": 399,
+    "timeDay": 476,
+    "timeWeek": 423,
+    "timeMonth": 401,
     "timeYear": 401,
     "dailyMinutesDown": {
-      "2023-01-25": 0
+      "2023-01-25": 14
     }
   },
   {
