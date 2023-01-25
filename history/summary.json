@@ -4,10 +4,10 @@
     "url": "https://de1.tunnelsats.com",
     "icon": "https://icons.duckduckgo.com/ip3/de1.tunnelsats.com.ico",
     "slug": "de1-tunnelsats-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 419,
@@ -15,7 +15,9 @@
     "timeWeek": 435,
     "timeMonth": 408,
     "timeYear": 419,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-25": 1
+    }
   },
   {
     "name": "🇺🇸 us1.tunnelsats.com",
@@ -114,9 +116,9 @@
     "url": "https://au1.tunnelsats.com",
     "icon": "https://icons.duckduckgo.com/ip3/au1.tunnelsats.com.ico",
     "slug": "au1-tunnelsats-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "99.79%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.90%",
@@ -126,6 +128,7 @@
     "timeMonth": 582,
     "timeYear": 582,
     "dailyMinutesDown": {
+      "2023-01-25": 0,
       "2023-01-18": 21,
       "2022-12-26": 21
     }
@@ -135,9 +138,9 @@
     "url": "https://tunnelsats.com",
     "icon": "https://icons.duckduckgo.com/ip3/tunnelsats.com.ico",
     "slug": "tunnel-sats-frontend",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
@@ -147,6 +150,7 @@
     "timeMonth": 385,
     "timeYear": 391,
     "dailyMinutesDown": {
+      "2023-01-25": 0,
       "2022-12-10": 21,
       "2022-11-27": 16
     }
