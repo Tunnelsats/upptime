@@ -89,10 +89,7 @@
     "timeWeek": 451,
     "timeMonth": 428,
     "timeYear": 411,
-    "dailyMinutesDown": {
-      "2022-12-20": 544,
-      "2022-12-19": 167
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "🇩🇪 de3.tunnelsats.com",
