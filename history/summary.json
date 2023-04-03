@@ -40,19 +40,19 @@
     "url": "https://br1.tunnelsats.com",
     "icon": "https://icons.duckduckgo.com/ip3/br1.tunnelsats.com.ico",
     "slug": "br1-tunnelsats-com",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 489,
-    "timeDay": 545,
-    "timeWeek": 533,
-    "timeMonth": 510,
-    "timeYear": 489,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "96.88%",
+    "uptimeWeek": "99.55%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.98%",
+    "time": 488,
+    "timeDay": 469,
+    "timeWeek": 515,
+    "timeMonth": 507,
+    "timeYear": 488,
     "dailyMinutesDown": {
-      "2023-04-03": 0
+      "2023-04-03": 45
     }
   },
   {
