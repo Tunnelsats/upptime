@@ -22,9 +22,9 @@
     "url": "https://sg1.tunnelsats.com",
     "icon": "https://icons.duckduckgo.com/ip3/sg1.tunnelsats.com.ico",
     "slug": "sg1-tunnelsats-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 671,
     "timeMonth": 633,
     "timeYear": 648,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-04-14": 0
+    }
   },
   {
     "name": "🇧🇷 br1.tunnelsats.com",
@@ -81,11 +83,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/de2.tunnelsats.com.ico",
     "slug": "de2-tunnelsats-com",
     "status": "up",
-    "uptime": "98.71%",
+    "uptime": "98.72%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.71%",
+    "uptimeYear": "98.72%",
     "time": 410,
     "timeDay": 454,
     "timeWeek": 383,
