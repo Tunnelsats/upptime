@@ -22,19 +22,19 @@
     "url": "https://sg1.tunnelsats.com",
     "icon": "https://icons.duckduckgo.com/ip3/sg1.tunnelsats.com.ico",
     "slug": "sg1-tunnelsats-com",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.30%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 648,
-    "timeDay": 549,
-    "timeWeek": 671,
-    "timeMonth": 633,
+    "timeDay": 588,
+    "timeWeek": 666,
+    "timeMonth": 632,
     "timeYear": 648,
     "dailyMinutesDown": {
-      "2023-04-14": 0
+      "2023-04-14": 10
     }
   },
   {
