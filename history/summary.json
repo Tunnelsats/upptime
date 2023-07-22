@@ -4,19 +4,19 @@
     "url": "https://us1.tunnelsats.com",
     "icon": "https://icons.duckduckgo.com/ip3/us1.tunnelsats.com.ico",
     "slug": "us1-tunnelsats-com",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.28%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 198,
-    "timeDay": 77,
-    "timeWeek": 149,
-    "timeMonth": 137,
-    "timeYear": 198,
+    "time": 209,
+    "timeDay": 1544,
+    "timeWeek": 507,
+    "timeMonth": 230,
+    "timeYear": 209,
     "dailyMinutesDown": {
-      "2023-07-22": 0
+      "2023-07-22": 10
     }
   },
   {
