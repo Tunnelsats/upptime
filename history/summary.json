@@ -4,9 +4,9 @@
     "url": "https://us1.tunnelsats.com",
     "icon": "https://icons.duckduckgo.com/ip3/us1.tunnelsats.com.ico",
     "slug": "us1-tunnelsats-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 149,
     "timeMonth": 137,
     "timeYear": 198,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-07-22": 0
+    }
   },
   {
     "name": "🇸🇬 sg1.tunnelsats.com",
