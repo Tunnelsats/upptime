@@ -10,7 +10,7 @@ assignees: ''
 <!--
 start: 2021-02-24T13:00:00+00:00
 end: 2021-02-24T14:00:00+00:00
-expectedDown: google, hacker-news
+expectedDown/expectedDegraded: us1.tunnelsats.com,sg1.tunnelsats.com,de1.tunnelsats.com,de2.tunnelsats.com,de3.tunnelsats.com,br1.tunnelsats.com,au1.tunnelsats.com,tunnelsats.com
 -->
 
 ### Remove the below blurb before logging
