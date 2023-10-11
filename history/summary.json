@@ -80,9 +80,9 @@
     "url": "https://de2.tunnelsats.com",
     "icon": "https://icons.duckduckgo.com/ip3/de2.tunnelsats.com.ico",
     "slug": "de2-tunnelsats-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.77%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.77%",
@@ -92,6 +92,7 @@
     "timeMonth": 1118,
     "timeYear": 478,
     "dailyMinutesDown": {
+      "2023-10-11": 0,
       "2022-12-20": 544,
       "2022-12-19": 167
     }
