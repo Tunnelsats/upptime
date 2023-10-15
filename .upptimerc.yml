@@ -9,6 +9,12 @@ sites:
       - 200
       - 201
       - 404  
+  - name: 🇺🇸 us2.tunnelsats.com
+    url: https://us2.tunnelsats.com
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 404        
   - name: 🇸🇬 sg1.tunnelsats.com
     url: https://sg1.tunnelsats.com
     expectedStatusCodes:
