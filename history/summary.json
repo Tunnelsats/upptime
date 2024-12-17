@@ -137,9 +137,9 @@
     "url": "https://au1.tunnelsats.com",
     "icon": "https://icons.duckduckgo.com/ip3/au1.tunnelsats.com.ico",
     "slug": "au1-tunnelsats-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -149,6 +149,7 @@
     "timeMonth": 591,
     "timeYear": 587,
     "dailyMinutesDown": {
+      "2024-12-17": 0,
       "2024-06-18": 10
     }
   },
