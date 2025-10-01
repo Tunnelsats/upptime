@@ -25,19 +25,19 @@
     "url": "https://us2.tunnelsats.com",
     "icon": "https://icons.duckduckgo.com/ip3/us2.tunnelsats.com.ico",
     "slug": "us2-tunnelsats-com",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.24%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "100.00%",
-    "time": 238,
-    "timeDay": 167,
-    "timeWeek": 218,
-    "timeMonth": 224,
+    "time": 239,
+    "timeDay": 223,
+    "timeWeek": 226,
+    "timeMonth": 226,
     "timeYear": 240,
     "dailyMinutesDown": {
-      "2025-10-01": 0
+      "2025-10-01": 25
     }
   },
   {
@@ -165,19 +165,19 @@
     "url": "https://tunnelsats.com",
     "icon": "https://icons.duckduckgo.com/ip3/tunnelsats.com.ico",
     "slug": "tunnel-sats-frontend",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.24%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "100.00%",
     "time": 222,
-    "timeDay": 137,
-    "timeWeek": 195,
+    "timeDay": 181,
+    "timeWeek": 198,
     "timeMonth": 222,
     "timeYear": 221,
     "dailyMinutesDown": {
-      "2025-10-01": 0
+      "2025-10-01": 25
     }
   }
 ]
