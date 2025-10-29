@@ -14,7 +14,13 @@ sites:
     expectedStatusCodes:
       - 200
       - 201
-      - 404        
+      - 404
+  - name: 🇺🇸 us3.tunnelsats.com
+    url: https://us3.tunnelsats.com
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 404      
   - name: 🇸🇬 sg1.tunnelsats.com
     url: https://sg1.tunnelsats.com
     expectedStatusCodes:
