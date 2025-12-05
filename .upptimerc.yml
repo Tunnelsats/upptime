@@ -5,66 +5,77 @@ repo: upptime # The name of this repository
 sites:
   - name: 🇺🇸 us1.tunnelsats.com
     url: https://us1.tunnelsats.com
+    type: globalping
     expectedStatusCodes:
       - 200
       - 201
       - 404  
   - name: 🇺🇸 us2.tunnelsats.com
     url: https://us2.tunnelsats.com
+    type: globalping
     expectedStatusCodes:
       - 200
       - 201
       - 404
   - name: 🇺🇸 us3.tunnelsats.com
     url: https://us3.tunnelsats.com
+    type: globalping
     expectedStatusCodes:
       - 200
       - 201
       - 404      
   - name: 🇸🇬 sg1.tunnelsats.com
     url: https://sg1.tunnelsats.com
+    type: globalping
     expectedStatusCodes:
       - 200
       - 201
       - 404
   - name: 🇧🇷 br1.tunnelsats.com
     url: https://br1.tunnelsats.com
+    type: globalping
     expectedStatusCodes:
       - 200
       - 201
       - 404      
 #  - name: 🇿🇦 za1.tunnelsats.com
 #    url: https://za1.tunnelsats.com
+#    type: globalping
 #    expectedStatusCodes:
 #      - 200
 #      - 201
 #      - 404
   - name: 🇩🇪 de1.tunnelsats.com
     url: https://de1.tunnelsats.com
+    type: globalping
     expectedStatusCodes:
       - 200
       - 201
       - 404
   - name: 🇩🇪 de2.tunnelsats.com
     url: https://de2.tunnelsats.com
+    type: globalping
     expectedStatusCodes:
       - 200
       - 201
       - 404      
   - name: 🇩🇪 de3.tunnelsats.com
     url: https://de3.tunnelsats.com
+    type: globalping
     expectedStatusCodes:
       - 200
       - 201
       - 404
   - name: 🇦🇺 au1.tunnelsats.com
     url: https://au1.tunnelsats.com
+    type: globalping
     expectedStatusCodes:
       - 200
       - 201
       - 404
   - name: Tunnel⚡️Sats Frontend
     url: https://tunnelsats.com
+    type: globalping
     expectedStatusCodes:
       - 200
       - 201
