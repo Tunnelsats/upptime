@@ -16,8 +16,6 @@
     "timeMonth": 303,
     "timeYear": 211,
     "dailyMinutesDown": {
-      "2025-12-23": 55,
-      "2025-12-21": 20,
       "2025-03-03": 10
     }
   },
@@ -38,8 +36,6 @@
     "timeMonth": 493,
     "timeYear": 261,
     "dailyMinutesDown": {
-      "2025-12-23": 55,
-      "2025-12-21": 20,
       "2025-10-01": 25
     }
   },
@@ -60,9 +56,6 @@
     "timeMonth": 441,
     "timeYear": 325,
     "dailyMinutesDown": {
-      "2025-12-24": 0,
-      "2025-12-23": 55,
-      "2025-12-21": 20,
       "2025-11-07": 12,
       "2025-10-29": 11
     }
@@ -83,10 +76,7 @@
     "timeWeek": 1021,
     "timeMonth": 1172,
     "timeYear": 736,
-    "dailyMinutesDown": {
-      "2025-12-23": 55,
-      "2025-12-21": 20
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "🇧🇷 br1.tunnelsats.com",
@@ -105,8 +95,6 @@
     "timeMonth": 619,
     "timeYear": 499,
     "dailyMinutesDown": {
-      "2025-12-23": 55,
-      "2025-12-21": 20,
       "2025-11-10": 31,
       "2025-10-24": 10,
       "2025-03-30": 11,
@@ -129,10 +117,7 @@
     "timeWeek": 1112,
     "timeMonth": 920,
     "timeYear": 471,
-    "dailyMinutesDown": {
-      "2025-12-23": 55,
-      "2025-12-21": 20
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "🇩🇪 de2.tunnelsats.com",
@@ -150,10 +135,7 @@
     "timeWeek": 583,
     "timeMonth": 356,
     "timeYear": 420,
-    "dailyMinutesDown": {
-      "2025-12-23": 55,
-      "2025-12-21": 20
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "🇩🇪 de3.tunnelsats.com",
@@ -171,10 +153,7 @@
     "timeWeek": 98,
     "timeMonth": 197,
     "timeYear": 401,
-    "dailyMinutesDown": {
-      "2025-12-23": 122,
-      "2025-12-21": 20
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "🇦🇺 au1.tunnelsats.com",
@@ -193,8 +172,6 @@
     "timeMonth": 829,
     "timeYear": 608,
     "dailyMinutesDown": {
-      "2025-12-23": 55,
-      "2025-12-21": 20,
       "2025-05-12": 100,
       "2025-05-05": 1333,
       "2025-05-04": 1440,
@@ -221,8 +198,6 @@
     "timeMonth": 489,
     "timeYear": 243,
     "dailyMinutesDown": {
-      "2025-12-23": 55,
-      "2025-12-21": 20,
       "2025-10-01": 25
     }
   }
