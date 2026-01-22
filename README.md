@@ -1,4 +1,4 @@
-![Tunnelsats Logo](assets/tunnelsats_banner_640_320.png)
+<img src="assets/social_metadata_rectangle-1300x600.png" alt="Tunnelsats Logo" width="1000">
 
 # [📈 Live Status](https://upptime.github.io/upptime): <!--live status--> **🟩 All systems operational**
 
