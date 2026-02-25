@@ -57,6 +57,12 @@ sites:
       - 200
       - 201
       - 404
+  - name: 🇫🇮 fi1.tunnelsats.com
+    url: https://fi1.tunnelsats.com
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 404
   - name: 🇦🇺 au1.tunnelsats.com
     url: https://au1.tunnelsats.com
     expectedStatusCodes:
