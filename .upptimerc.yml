@@ -8,7 +8,7 @@ sites:
     expectedStatusCodes:
       - 200
       - 201
-      - 404  
+      - 404
   - name: 🇺🇸 us2.tunnelsats.com
     url: https://us2.tunnelsats.com
     expectedStatusCodes:
@@ -20,7 +20,7 @@ sites:
     expectedStatusCodes:
       - 200
       - 201
-      - 404      
+      - 404
   - name: 🇸🇬 sg1.tunnelsats.com
     url: https://sg1.tunnelsats.com
     expectedStatusCodes:
@@ -32,13 +32,13 @@ sites:
     expectedStatusCodes:
       - 200
       - 201
-      - 404      
-#  - name: 🇿🇦 za1.tunnelsats.com
-#    url: https://za1.tunnelsats.com
-#    expectedStatusCodes:
-#      - 200
-#      - 201
-#      - 404
+      - 404
+  #  - name: 🇿🇦 za1.tunnelsats.com
+  #    url: https://za1.tunnelsats.com
+  #    expectedStatusCodes:
+  #      - 200
+  #      - 201
+  #      - 404
   - name: 🇩🇪 de1.tunnelsats.com
     url: https://de1.tunnelsats.com
     expectedStatusCodes:
@@ -50,15 +50,9 @@ sites:
     expectedStatusCodes:
       - 200
       - 201
-      - 404      
+      - 404
   - name: 🇩🇪 de3.tunnelsats.com
     url: https://de3.tunnelsats.com
-    expectedStatusCodes:
-      - 200
-      - 201
-      - 404
-  - name: 🇫🇮 fi1.tunnelsats.com
-    url: https://fi1.tunnelsats.com
     expectedStatusCodes:
       - 200
       - 201
@@ -108,7 +102,9 @@ workflowSchedule:
   updateTemplate: "0 0 * * *"
   updates: "0 3 * * *"
   uptime: "*/5 * * * *"
-  
+
 i18n:
-  footer: This page is powered by [Upptime](https://upptime.js.org). Tunnel⚡️Sats has received 0 (Zero) government requests for information.
- #footer: Canary Warrent Notification: Tunnel⚡️Sats has received 0 (Zero) government requests for information. <br /> This page is powered by [Upptime](https://upptime.js.org)
+  footer: This page is powered by [Upptime](https://upptime.js.org). Tunnel⚡️Sats
+    has received 0 (Zero) government requests for information.
+
+#footer: Canary Warrent Notification: Tunnel⚡️Sats has received 0 (Zero) government requests for information. <br /> This page is powered by [Upptime](https://upptime.js.org)
