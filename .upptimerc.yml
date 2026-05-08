@@ -63,6 +63,12 @@ sites:
       - 200
       - 201
       - 404
+  - name: 🇨🇭 ch1.tunnelsats.com
+    url: https://ch1.tunnelsats.com
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 404
   - name: Tunnel⚡️Sats Frontend
     url: https://tunnelsats.com
     expectedStatusCodes:
