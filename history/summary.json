@@ -177,18 +177,20 @@
     "url": "https://ch1.tunnelsats.com",
     "icon": "https://icons.duckduckgo.com/ip3/ch1.tunnelsats.com.ico",
     "slug": "ch1-tunnelsats-com",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
-    "dailyMinutesDown": {}
+    "status": "up",
+    "uptime": "3.64%",
+    "uptimeDay": "3.64%",
+    "uptimeWeek": "3.64%",
+    "uptimeMonth": "3.64%",
+    "uptimeYear": "3.64%",
+    "time": 460,
+    "timeDay": 460,
+    "timeWeek": 460,
+    "timeMonth": 460,
+    "timeYear": 460,
+    "dailyMinutesDown": {
+      "2026-05-08": 14
+    }
   },
   {
     "name": "Tunnel⚡️Sats Frontend",
