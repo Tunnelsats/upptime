@@ -175,10 +175,10 @@
     "url": "https://ch1.tunnelsats.com",
     "icon": "https://icons.duckduckgo.com/ip3/ch1.tunnelsats.com.ico",
     "slug": "ch1-tunnelsats-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
     "time": 422,
@@ -188,7 +188,8 @@
     "timeYear": 422,
     "dailyMinutesDown": {
       "2026-05-08": 14,
-      "2026-07-15": 172
+      "2026-07-15": 172,
+      "2026-09-16": 1
     }
   },
   {
